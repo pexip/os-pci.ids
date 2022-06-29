@@ -1,6 +1,6 @@
-pci.ids (0.0~2021.02.08-1pexip1) pexip; urgency=medium
+pci.ids (0.0~2021.02.08-1pexip1) pexip-bullseye; urgency=medium
 
-  * Prepare Pexip packaging
+  * Prepare Pexip packaging for Bullseye
 
  -- Mark Hymers <mark.hymers@pexip.com>  Wed, 29 Jun 2022 13:57:52 +0100
 
