@@ -1,7 +1,8 @@
 Source: pci.ids
 Section: admin
 Priority: optional
-Maintainer: Guillem Jover <guillem@debian.org>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Guillem Jover <guillem@debian.org>
 Homepage: https://pci-ids.ucw.cz/
 Standards-Version: 4.5.1
 Rules-Requires-Root: no
@@ -9,6 +10,7 @@ Build-Depends:
  debhelper-compat (= 13),
 Vcs-Browser: https://git.hadrons.org/cgit/debian/pkgs/pci.ids.git
 Vcs-Git: https://git.hadrons.org/git/debian/pkgs/pci.ids.git
+XS-Pexip-Upstream: http://ftp.debian.org/debian/ bullseye
 
 Package: pci.ids
 Architecture: all
