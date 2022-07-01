@@ -1,3 +1,9 @@
+pci.ids (0.0~2021.02.08-1pexip2) pexip-bullseye; urgency=medium
+
+  * Rebuild for override changes
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Fri, 01 Jul 2022 10:21:23 +0100
+
 pci.ids (0.0~2021.02.08-1pexip1) pexip-bullseye; urgency=medium
 
   * Prepare Pexip packaging for Bullseye
