@@ -1,3 +1,9 @@
+pci.ids (0.0~2025.06.09-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <guillem@debian.org>  Fri, 20 Jun 2025 03:04:33 +0200
+
 pci.ids (0.0~2025.03.09-1+pexip25u1) pexip-trixie; urgency=medium
 
   * Initial trixie build
